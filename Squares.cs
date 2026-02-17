@@ -34,6 +34,7 @@ namespace PokemonBingo
             "Catch a Clefairy",
             "Catch a Paras",
             "Catch an Abra",
+            "Complete an in-game trade"
         };
 
         public static List<string> Handicaps = new List<string>()   //Pick 3
@@ -44,6 +45,7 @@ namespace PokemonBingo
             "Lose twice to your rival",
             "Black out and respawn in Pallet Town",
             "Use 5 pokeballs on the same pokemon",
+            "Take Charmander as your starter",
         };
 
         public static List<string> Rivals = new List<string>()  //Pick 2
@@ -73,10 +75,11 @@ namespace PokemonBingo
         public static List<string> Trainers = new List<string>()    //Pick 3
         {
             "Beat a trainer on the S.S. Anne",
-            "Defeat a member of Team Rocket",
             "Defeat a trainer using the same pokemon as you",
             "Defeat a gym trainer",
-            "Defeat a trainer in tall grass",
+            "Defeat all 3 bug catchers in Viridian Forest",
+            "Defeat all 4 rockets in Mt. Moon",
+            "Defeat all 3 Lass's on Route 3"
         };
 
         public static List<string> Other = new List<string>()   //Pick 4
@@ -87,6 +90,8 @@ namespace PokemonBingo
             "Collect your fossil in Mt. Moon",
             "Buy Magikarp",
             "Have 12 catch entries in your pokedex",
+            "Have 5000 pokedollars",
+            "Claim your bike"
         };
     }
 }

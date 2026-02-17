@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokemonBingo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16bb73d1a0827d8370aac9ab1ce1d5aa30cc67b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokemonBingo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokemonBingo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
